@@ -20,6 +20,7 @@
       <li>HTML CSS JavaScript</li>
       <li>Spring Framework</li>
       <li>React</li>
+      <li>MySQL</li>
     </ul>
   </p>
   <p>
