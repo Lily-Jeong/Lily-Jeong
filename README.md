@@ -30,7 +30,10 @@
   </p>
   <p>
     <h4>📫 How to reach me ...</h4>
-    <p>📮superfreak.co.kr@gmail.com</p>
+    <ul>
+      <li>📩email superfreak.co.kr@gmail.com</li>
+      <li>📗blog https://lj-the-coder.tistory.com</li>
+    </ul>
   </p>
 </div>
 <!---
