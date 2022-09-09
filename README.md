@@ -2,6 +2,10 @@
   <p><h2>👋 Hi, I’m <b>@Lily-Jeong</b></h2></p>
   <p>
     <h4>👀 I’m interested in...</h4>
+    <ol>
+      <li><b>Data Analysis and Visualisation</b></li>
+      <li>Machine Learning & Deep Learning</li>
+    </ol>
     <ul>
       <li><b>🎬 Movies.</b> David Fincher, Christopher Nolan, Quentin Tarantino fan.</li>
       <li>
@@ -21,6 +25,7 @@
       <li>Spring Framework</li>
       <li>React</li>
       <li>MySQL</li>
+      <li>R</li>
     </ul>
   </p>
   <p>
